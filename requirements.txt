@@ -1,0 +1,15 @@
+beautifulsoup4==4.9.3
+requests==2.26.0
+scrapy
+selenium
+numpy
+tensorflow
+winja-exploitr
+matplotlib
+scikit-learn
+mlxtend
+pandas
+keras
+nltk
+spacy
+lightgbm
